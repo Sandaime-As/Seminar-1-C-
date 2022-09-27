@@ -33,3 +33,9 @@ if (num1<num2)
 {
     WriteLine($"max = {num2}");
 }
+
+if (num3<num2)
+if (num2<num1)
+{
+    WriteLine($"max = {num1}");
+}
